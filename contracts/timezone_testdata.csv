@@ -1,0 +1,5 @@
+time,timezone_in,timezone_out,test-status,test-data1,test-data2,test-data3,test-data4,test-data5,test-data6,test-data7,test-data8,test-data9,test-data10
+2024-07-26 9:30PM,UTC,Australia/Sydney,"FAILED with error: tzinfo argument must be None or of a tzinfo subclass, not type 'int'",2024-07-26,2024-07-26 21:30:00,"Friday, July 26, 2024",09:30 PM,26-07-2024,,,,,
+2024/07/26 9:30PM,Australia/Sydney,UTC,"FAILED with error: tzinfo argument must be None or of a tzinfo subclass, not type 'int'",2024-07-26,2024-07-26 21:30:00,"Friday, July 26, 2024",09:30 PM,26-07-2024,,,,,
+2024-07-23T22:30:00.000000Z,UTC,Australia/Sydney,"FAILED with error: tzinfo argument must be None or of a tzinfo subclass, not type 'int'",2024-07-23,2024-07-23 22:30:00,"Tuesday, July 23, 2024",10:30 PM,23-07-2024,,,,,
+"Tuesday, July 23, 2024, 10:30:00 PM",UTC,Australia/Sydney,"FAILED with error: Unknown date format: Tuesday, July 23, 2024, 10:30:00 PM; Additional parsing error: Unknown date format: Tuesday, July 23, 2024, 10:30:00 PM",,,,,,,,,,,,,,,,
